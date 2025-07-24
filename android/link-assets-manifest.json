@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/MadimiOne-Regular.ttf",
+      "sha1": "431592c440f0f171a09ed3850721cfd988416ef2"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "1c8119b38eef1914a4fbd9f6cfdedf198445ab97"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "d491c9d0af61faef59ca807737b560170f547f5b"
+    }
+  ]
+}
